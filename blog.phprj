@@ -1,0 +1,19 @@
+{
+ "m_name": "blog",
+ "m_isActive": true,
+ "m_importFileSpec": "*.php;*.php5;*.inc;*.phtml;*.js;*.html;*.css;*.scss;*.json;*.xml;*.ini;*.md;*.txt;*.text;.htaccess",
+ "m_excludeFolders": ".git;.svn;.codelite;.clang",
+ "settings": {
+  "m_runAs": 1,
+  "m_phpExe": "/usr/bin/php",
+  "m_indexFile": "",
+  "m_args": "",
+  "m_workingDirectory": "",
+  "m_projectURL": "",
+  "m_includePath": "",
+  "m_ccIncludePath": "/mnt/magazyn/blog/src/Controller\n/mnt/magazyn/blog/src/Controller/Component\n/mnt/magazyn/blog/src/Model\n/mnt/magazyn/blog/src/Model/Behavior\n/mnt/magazyn/blog/src/Model/Entity\n/mnt/magazyn/blog/src/Model/Table\n/mnt/magazyn/blog/src/View\n/mnt/magazyn/blog/src/View/Helper",
+  "m_flags": 5,
+  "m_phpIniFile": "",
+  "m_fileMapping": []
+ }
+}
